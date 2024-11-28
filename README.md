@@ -1,5 +1,5 @@
 
-# CRicket Bidding
+# Cricket Bidding
 
 A fully responsive frontend website created using html,css and javascript.
 
